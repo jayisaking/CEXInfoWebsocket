@@ -1,4 +1,4 @@
-# WebSocket Scripts for BingX and Bitget Trading information and Account Status
+# WebSocket Scripts for Trading information and Account Status of BingX and Bitget
 
 ## Requirements
 ```shell
